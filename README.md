@@ -20,3 +20,6 @@ the most powerful creature, the mighty final boss! Will you defeat it and win th
 # 3. Installed Functions
 _____Loading_____
 (This game is not finished yet)
+
+# 4. Demo video
+https://www.youtube.com/watch?v=WmUU4jZGijE&t=1s
